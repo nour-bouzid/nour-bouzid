@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on the backend of data privacy automation tool
+- 📫 How to reach me: nourbouzid.com
+
