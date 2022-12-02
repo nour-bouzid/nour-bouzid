@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Nour
 
 <!--
 **nour-bouzid/nour-bouzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on the backend of data privacy automation tool
-- 📫 How to reach me: nourbouzid.com
 
