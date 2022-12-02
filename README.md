@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the backend of data privacy automation tool
+- 🔭 I’m currently working on the backend of a data privacy automation tool @Kertos
 
