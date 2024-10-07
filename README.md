@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the backend of a data privacy automation SaaS @Kertos
+- 🔭 I’m currently working as a cloud consultant @Microsoft
 
 ### Languages and frameworks I use
 
