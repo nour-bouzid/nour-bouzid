@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a cloud consultant @Microsoft
+- 🔭 I’m currently working as a data and AI consultant @Microsoft
 
 ### Languages and frameworks I use
 
